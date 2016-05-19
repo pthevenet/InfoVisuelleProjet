@@ -1,6 +1,8 @@
-# visual_computing_project
+# A Tangible 3D Game
 
-Repository for the project of the course CS-211, EPFL 2015-2016
+Control a virtual board with a green plate and a webcam.
+
+Started as a project for the course CS-211, EPFL 2015-2016.
 
 ## Authors (Group U)
    * Johannes Beck
